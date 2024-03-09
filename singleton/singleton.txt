@@ -1,0 +1,3 @@
+What is a the purpose of design pattern SINGLETON:
+
+    The main idea is create a only instance (generally for structs) for all the application.
